@@ -28,4 +28,4 @@ Github :- https://github.com/MayureshKoli45
 
 Kaggle :- https://www.kaggle.com/mayureshkoli¶
 
-ThankYou for your time and efforts.
+Thank You for your time and efforts.
