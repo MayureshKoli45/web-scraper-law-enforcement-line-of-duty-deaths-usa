@@ -17,8 +17,8 @@ Feel free to check the program and I hope you will be able to understand this pr
 The dataset that i have collected in this project you can find it on my Kaggle as well as Github Profile.
 
 ## I have aloso made an web application based on this scraped data ->
-### Web Application link -> https://mayureshkoli45-web-application-dashboard-on-law-enfo-app-7hs2e5.streamlit.app/
-### Web Application repo -> https://github.com/MayureshKoli45/web-application-dashboard-on-law-enforcement-line-of-duty-deaths-usa
+### Web Application link -> [Web Application Dashboard](https://mayureshkoli45-web-application-dashboard-on-law-enfo-app-7hs2e5.streamlit.app/)
+### Web Application repo -> [Web Application Repo](https://github.com/MayureshKoli45/web-application-dashboard-on-law-enforcement-line-of-duty-deaths-usa)
 
 Tip :- If you want to understand the program well I can only say that separate the program into sections and run it individually and also you can do some debugging on it.
 
